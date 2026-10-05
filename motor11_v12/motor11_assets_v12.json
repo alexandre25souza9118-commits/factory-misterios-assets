@@ -1,0 +1,126 @@
+{
+  "version": "M9_V12",
+  "total": 10,
+  "assets": [
+    {
+      "id": "A001",
+      "type": "video",
+      "file": "A001.mp4",
+      "duration": null,
+      "public_url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v12/A001.mp4",
+      "description": "night Sacramento valley landscape",
+      "scene": null,
+      "take": null,
+      "source_type": null,
+      "source": "motor9_v12"
+    },
+    {
+      "id": "A002",
+      "type": "video",
+      "file": "A002.mp4",
+      "duration": null,
+      "public_url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v12/A002.mp4",
+      "description": "five young men walking away from campus, backs only",
+      "scene": null,
+      "take": null,
+      "source_type": null,
+      "source": "motor9_v12"
+    },
+    {
+      "id": "A008",
+      "type": "video",
+      "file": "A008.mp4",
+      "duration": null,
+      "public_url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v12/A008.mp4",
+      "description": "young man working in a garden, focus on hands",
+      "scene": null,
+      "take": null,
+      "source_type": null,
+      "source": "motor9_v12"
+    },
+    {
+      "id": "A010",
+      "type": "video",
+      "file": "A010.mp4",
+      "duration": null,
+      "public_url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v12/A010.mp4",
+      "description": "rural road at night",
+      "scene": null,
+      "take": null,
+      "source_type": null,
+      "source": "motor9_v12"
+    },
+    {
+      "id": "A011",
+      "type": "video",
+      "file": "A011.mp4",
+      "duration": null,
+      "public_url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v12/A011.mp4",
+      "description": "inside an old Mercury, steering wheel and hands",
+      "scene": null,
+      "take": null,
+      "source_type": null,
+      "source": "motor9_v12"
+    },
+    {
+      "id": "A012",
+      "type": "video",
+      "file": "A012.mp4",
+      "duration": null,
+      "public_url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v12/A012.mp4",
+      "description": "1970s style convenience store exterior at night",
+      "scene": null,
+      "take": null,
+      "source_type": null,
+      "source": "motor9_v12"
+    },
+    {
+      "id": "A016",
+      "type": "video",
+      "file": "A016.mp4",
+      "duration": null,
+      "public_url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v12/A016.mp4",
+      "description": "silhouette of woman looking through a window",
+      "scene": null,
+      "take": null,
+      "source_type": null,
+      "source": "motor9_v12"
+    },
+    {
+      "id": "A020",
+      "type": "video",
+      "file": "A020.mp4",
+      "duration": null,
+      "public_url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v12/A020.mp4",
+      "description": "mountain forest road near Plumas",
+      "scene": null,
+      "take": null,
+      "source_type": null,
+      "source": "motor9_v12"
+    },
+    {
+      "id": "A021",
+      "type": "video",
+      "file": "A021.mp4",
+      "duration": null,
+      "public_url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v12/A021.mp4",
+      "description": "forest ranger beside an abandoned old car",
+      "scene": null,
+      "take": null,
+      "source_type": null,
+      "source": "motor9_v12"
+    },
+    {
+      "id": "A024",
+      "type": "video",
+      "file": "A024.mp4",
+      "duration": null,
+      "public_url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v12/A024.mp4",
+      "description": "empty driver's seat inside old Mercury",
+      "scene": null,
+      "take": null,
+      "source_type": null,
+      "source": "motor9_v12"
+    }
+  ]
+}
