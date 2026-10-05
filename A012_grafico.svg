@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+ width="1920" height="1080" viewBox="0 0 1920 1080">
+ <rect width="1920" height="1080" fill="#101318"/>
+ <rect x="90" y="90" width="1740" height="900"
+       fill="none" stroke="#777" stroke-width="2"/>
+ <text x="120" y="500"
+       font-family="Arial, sans-serif"
+       font-size="72" fill="#ffffff">“clock graphic 22:00 vector”</text>
+ <text x="120" y="590"
+       font-family="Arial, sans-serif"
+       font-size="34" fill="#bfc3c8">GRÁFICO — PRODUÇÃO VISUAL</text>
+ </svg>
