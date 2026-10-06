@@ -1,0 +1,225 @@
+{
+  "version": "MOTOR_9_V13",
+  "total": 27,
+  "preserved_videos": 0,
+  "generated_motion": 27,
+  "missing": [],
+  "assets": [
+    {
+      "id": "A001",
+      "file": "A001.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A001.mp4"
+    },
+    {
+      "id": "A002",
+      "file": "A002.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A002.mp4"
+    },
+    {
+      "id": "A003",
+      "file": "A003.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A003.mp4"
+    },
+    {
+      "id": "A004",
+      "file": "A004.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A004.mp4"
+    },
+    {
+      "id": "A005",
+      "file": "A005.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A005.mp4"
+    },
+    {
+      "id": "A006",
+      "file": "A006.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A006.mp4"
+    },
+    {
+      "id": "A007",
+      "file": "A007.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A007.mp4"
+    },
+    {
+      "id": "A008",
+      "file": "A008.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A008.mp4"
+    },
+    {
+      "id": "A009",
+      "file": "A009.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A009.mp4"
+    },
+    {
+      "id": "A010",
+      "file": "A010.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A010.mp4"
+    },
+    {
+      "id": "A011",
+      "file": "A011.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A011.mp4"
+    },
+    {
+      "id": "A012",
+      "file": "A012.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A012.mp4"
+    },
+    {
+      "id": "A013",
+      "file": "A013.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A013.mp4"
+    },
+    {
+      "id": "A014",
+      "file": "A014.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A014.mp4"
+    },
+    {
+      "id": "A016",
+      "file": "A016.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A016.mp4"
+    },
+    {
+      "id": "A017",
+      "file": "A017.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A017.mp4"
+    },
+    {
+      "id": "A018",
+      "file": "A018.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A018.mp4"
+    },
+    {
+      "id": "A019",
+      "file": "A019.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A019.mp4"
+    },
+    {
+      "id": "A020",
+      "file": "A020.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A020.mp4"
+    },
+    {
+      "id": "A021",
+      "file": "A021.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A021.mp4"
+    },
+    {
+      "id": "A023",
+      "file": "A023.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A023.mp4"
+    },
+    {
+      "id": "A024",
+      "file": "A024.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A024.mp4"
+    },
+    {
+      "id": "A025",
+      "file": "A025.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A025.mp4"
+    },
+    {
+      "id": "A026",
+      "file": "A026.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A026.mp4"
+    },
+    {
+      "id": "A027",
+      "file": "A027.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A027.mp4"
+    },
+    {
+      "id": "A029",
+      "file": "A029.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A029.mp4"
+    },
+    {
+      "id": "A030",
+      "file": "A030.mp4",
+      "type": "MOTION_FROM_IMAGE",
+      "origin": "MOTOR_9_V10_IMAGE",
+      "duration": 5.0,
+      "url": "https://raw.githubusercontent.com/alexandre25souza9118-commits/factory-misterios-assets/main/motor11_v13/A030.mp4"
+    }
+  ]
+}
