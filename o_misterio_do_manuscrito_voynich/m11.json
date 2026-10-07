@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "motor": "M11_MASTER_TIMELINE",
+  "tema": "o_misterio_do_manuscrito_voynich",
+  "slug": "o_misterio_do_manuscrito_voynich",
+  "gerado_em": "2026-10-06T20:57:06",
+  "status": "APROVADO",
+  "duracao_total_segundos": 65.496,
+  "autoridade_temporal": "M7_AUDIO",
+  "autoridade_visual_temporal": "M10_TIMELINE_DIRECTOR",
+  "principio": "M11 consolida a timeline. Não cria assets, não altera a narração e não decide conteúdo.",
+  "camadas": {
+    "narracao": {
+      "id": "NARRACAO_M7",
+      "tipo": "NARRACAO",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\audio\\o_misterio_do_manuscrito_voynich_narracao_real.mp3",
+      "inicio_segundos": 0.0,
+      "fim_segundos": 65.496,
+      "duracao_segundos": 65.496,
+      "origem": "M7",
+      "autoridade_temporal": "M7_AUDIO"
+    },
+    "visuais": [
+      {
+        "ordem": 1,
+        "asset_id": "A0001",
+        "segment_id": "S01",
+        "tipo": "GRAPHIC",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0001_graphic.svg",
+        "inicio_segundos": 0.0,
+        "fim_segundos": 4.273,
+        "duracao_segundos": 4.273,
+        "origem": "M10"
+      },
+      {
+        "ordem": 2,
+        "asset_id": "A0002",
+        "segment_id": "S01",
+        "tipo": "TEXT",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\factory-misterios-assets-v13\\A004_texto.svg",
+        "inicio_segundos": 4.273,
+        "fim_segundos": 8.547,
+        "duracao_segundos": 4.273,
+        "origem": "M10"
+      },
+      {
+        "ordem": 3,
+        "asset_id": "A0003",
+        "segment_id": "S02",
+        "tipo": "ILLUSTRATION",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0003_fallback.svg",
+        "inicio_segundos": 8.547,
+        "fim_segundos": 16.262,
+        "duracao_segundos": 7.715,
+        "origem": "M10"
+      },
+      {
+        "ordem": 4,
+        "asset_id": "A0004",
+        "segment_id": "S03",
+        "tipo": "MAP",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\factory-misterios-assets-v13\\A016_mapa.svg",
+        "inicio_segundos": 16.262,
+        "fim_segundos": 18.521,
+        "duracao_segundos": 2.259,
+        "origem": "M10"
+      },
+      {
+        "ordem": 5,
+        "asset_id": "A0005",
+        "segment_id": "S03",
+        "tipo": "GRAPHIC",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0005_graphic.svg",
+        "inicio_segundos": 18.521,
+        "fim_segundos": 20.78,
+        "duracao_segundos": 2.259,
+        "origem": "M10"
+      },
+      {
+        "ordem": 6,
+        "asset_id": "A0006",
+        "segment_id": "S04",
+        "tipo": "GRAPHIC",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0006_graphic.svg",
+        "inicio_segundos": 20.78,
+        "fim_segundos": 27.099,
+        "duracao_segundos": 6.319,
+        "origem": "M10"
+      },
+      {
+        "ordem": 7,
+        "asset_id": "A0007",
+        "segment_id": "S05",
+        "tipo": "GRAPHIC",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\factory-misterios-assets-v13\\A006_grafico.svg",
+        "inicio_segundos": 27.099,
+        "fim_segundos": 33.877,
+        "duracao_segundos": 6.778,
+        "origem": "M10"
+      },
+      {
+        "ordem": 8,
+        "asset_id": "A0008",
+        "segment_id": "S06",
+        "tipo": "GRAPHIC",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0008_graphic.svg",
+        "inicio_segundos": 33.877,
+        "fim_segundos": 38.843,
+        "duracao_segundos": 4.966,
+        "origem": "M10"
+      },
+      {
+        "ordem": 9,
+        "asset_id": "A0009",
+        "segment_id": "S07",
+        "tipo": "GRAPHIC",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0009_graphic.svg",
+        "inicio_segundos": 38.843,
+        "fim_segundos": 46.974,
+        "duracao_segundos": 8.131,
+        "origem": "M10"
+      },
+      {
+        "ordem": 10,
+        "asset_id": "A0010",
+        "segment_id": "S08",
+        "tipo": "ILLUSTRATION",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0010_fallback.svg",
+        "inicio_segundos": 46.974,
+        "fim_segundos": 52.846,
+        "duracao_segundos": 5.872,
+        "origem": "M10"
+      },
+      {
+        "ordem": 11,
+        "asset_id": "A0011",
+        "segment_id": "S09",
+        "tipo": "GRAPHIC",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\factory-misterios-assets-v13\\A012_grafico.svg",
+        "inicio_segundos": 52.846,
+        "fim_segundos": 59.624,
+        "duracao_segundos": 6.778,
+        "origem": "M10"
+      },
+      {
+        "ordem": 12,
+        "asset_id": "A0012",
+        "segment_id": "S10",
+        "tipo": "GRAPHIC",
+        "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0012_graphic.svg",
+        "inicio_segundos": 59.624,
+        "fim_segundos": 65.496,
+        "duracao_segundos": 5.872,
+        "origem": "M10"
+      }
+    ]
+  },
+  "eventos": [
+    {
+      "id": "NARRACAO_M7",
+      "tipo": "NARRACAO",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\audio\\o_misterio_do_manuscrito_voynich_narracao_real.mp3",
+      "inicio_segundos": 0.0,
+      "fim_segundos": 65.496,
+      "duracao_segundos": 65.496,
+      "origem": "M7",
+      "autoridade_temporal": "M7_AUDIO"
+    },
+    {
+      "id": "A0001",
+      "tipo": "GRAPHIC",
+      "segment_id": "S01",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0001_graphic.svg",
+      "inicio_segundos": 0.0,
+      "fim_segundos": 4.273,
+      "duracao_segundos": 4.273,
+      "origem": "M10"
+    },
+    {
+      "id": "A0002",
+      "tipo": "TEXT",
+      "segment_id": "S01",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\factory-misterios-assets-v13\\A004_texto.svg",
+      "inicio_segundos": 4.273,
+      "fim_segundos": 8.547,
+      "duracao_segundos": 4.273,
+      "origem": "M10"
+    },
+    {
+      "id": "A0003",
+      "tipo": "ILLUSTRATION",
+      "segment_id": "S02",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0003_fallback.svg",
+      "inicio_segundos": 8.547,
+      "fim_segundos": 16.262,
+      "duracao_segundos": 7.715,
+      "origem": "M10"
+    },
+    {
+      "id": "A0004",
+      "tipo": "MAP",
+      "segment_id": "S03",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\factory-misterios-assets-v13\\A016_mapa.svg",
+      "inicio_segundos": 16.262,
+      "fim_segundos": 18.521,
+      "duracao_segundos": 2.259,
+      "origem": "M10"
+    },
+    {
+      "id": "A0005",
+      "tipo": "GRAPHIC",
+      "segment_id": "S03",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0005_graphic.svg",
+      "inicio_segundos": 18.521,
+      "fim_segundos": 20.78,
+      "duracao_segundos": 2.259,
+      "origem": "M10"
+    },
+    {
+      "id": "A0006",
+      "tipo": "GRAPHIC",
+      "segment_id": "S04",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0006_graphic.svg",
+      "inicio_segundos": 20.78,
+      "fim_segundos": 27.099,
+      "duracao_segundos": 6.319,
+      "origem": "M10"
+    },
+    {
+      "id": "A0007",
+      "tipo": "GRAPHIC",
+      "segment_id": "S05",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\factory-misterios-assets-v13\\A006_grafico.svg",
+      "inicio_segundos": 27.099,
+      "fim_segundos": 33.877,
+      "duracao_segundos": 6.778,
+      "origem": "M10"
+    },
+    {
+      "id": "A0008",
+      "tipo": "GRAPHIC",
+      "segment_id": "S06",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0008_graphic.svg",
+      "inicio_segundos": 33.877,
+      "fim_segundos": 38.843,
+      "duracao_segundos": 4.966,
+      "origem": "M10"
+    },
+    {
+      "id": "A0009",
+      "tipo": "GRAPHIC",
+      "segment_id": "S07",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0009_graphic.svg",
+      "inicio_segundos": 38.843,
+      "fim_segundos": 46.974,
+      "duracao_segundos": 8.131,
+      "origem": "M10"
+    },
+    {
+      "id": "A0010",
+      "tipo": "ILLUSTRATION",
+      "segment_id": "S08",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0010_fallback.svg",
+      "inicio_segundos": 46.974,
+      "fim_segundos": 52.846,
+      "duracao_segundos": 5.872,
+      "origem": "M10"
+    },
+    {
+      "id": "A0011",
+      "tipo": "GRAPHIC",
+      "segment_id": "S09",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\factory-misterios-assets-v13\\A012_grafico.svg",
+      "inicio_segundos": 52.846,
+      "fim_segundos": 59.624,
+      "duracao_segundos": 6.778,
+      "origem": "M10"
+    },
+    {
+      "id": "A0012",
+      "tipo": "GRAPHIC",
+      "segment_id": "S10",
+      "arquivo": "C:\\Users\\WINDOWS\\Documents\\FACTORY MISTERIOS\\data\\assets\\produced\\m9_v8\\A0012_graphic.svg",
+      "inicio_segundos": 59.624,
+      "fim_segundos": 65.496,
+      "duracao_segundos": 5.872,
+      "origem": "M10"
+    }
+  ],
+  "validacao": {
+    "erros": [],
+    "alertas": [],
+    "assets_visuais": 12,
+    "assets_unicos": 12,
+    "duracao_audio_segundos": 65.496
+  },
+  "proximo_motor": "M12_RENDER"
+}
