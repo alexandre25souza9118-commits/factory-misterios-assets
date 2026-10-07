@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#11151b"/>
+<rect x="90" y="90" width="1740" height="900" rx="18" fill="none" stroke="#7c8794" stroke-width="2"/>
+<text x="120" y="430" font-family="Arial, sans-serif" font-size="68" fill="#ffffff">Um painel que lista os códigos de evidência citados (F001‑U025, F007‑U035, F001‑U055, F007‑U001) cada um acompanhado de um símbolo de interrogação ou de limite, indicando que as informações disponíveis não permitem conclusões definitivas.</text>
+<text x="120" y="520" font-family="Arial, sans-serif" font-size="32" fill="#b9c0c8">Permitir que o espectador compreenda que a pergunta final está circunscrita ao que os registros existentes realmente suportam, destacando a presença de evidências específicas e a ausência de certeza plena.</text>
+<text x="120" y="920" font-family="Arial, sans-serif" font-size="22" fill="#7f8995">GRAPHIC</text>
+</svg>
